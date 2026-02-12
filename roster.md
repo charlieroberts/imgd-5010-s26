@@ -3,4 +3,5 @@
 3. Make a pull request
 
 - [Charlie Roberts](https://github.com/charlieroberts)
+- [Cao Ruilin](https://github.com/xcqweas)
 - [REPL Lab](https://repl-wpi.github.io)
